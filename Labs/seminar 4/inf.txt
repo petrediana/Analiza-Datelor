@@ -1,0 +1,20 @@
+X => p
+Y => q
+
+(perechi canonice p q)
+
+m = min(p, q)
+
+z1, u1
+	R(z1, u1) => Maxim z1, u1
+
+z2 -> trb sa fie absolut necorelat cu z1
+u2 ->
+
+r -> matrice de corelatii
+r xy = [ rx (rxy) -> p
+	 ryx ry ] -> q
+	 p   q		
+
+	p + q linii 
+	p + q coloane
